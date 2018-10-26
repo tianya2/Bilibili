@@ -1,0 +1,40 @@
+headers={
+    "User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:62.0) Gecko/20100101 Firefox/62.0",
+    "Accept":"application/json, text/plain, */*",
+    "Accept-Language":"zh-CN,zh;q=0.8,zh-TW;q=0.7,zh-HK;q=0.5,en-US;q=0.3,en;q=0.2",
+    "Accept-Encoding":"gzip, deflate, br",
+    "Referer":"https://live.bilibili.com/",
+    "Origin":"https://live.bilibili.com",
+    "Connection":"keep-alive"
+}
+msg_info={
+    "reject_msg":[
+        "SEND_GIFT",
+        "WELCOME",
+        "WELCOME_GUARD",
+        "COMBO_SEND",
+        "ENTRY_EFFECT",
+        "NOTICE_MSG",
+        "DANMU_MSG",
+        "ROOM_RANK",
+        "WISH_BOTTLE",
+        "COMBO_END"
+    ],
+    "receive_msg":[
+        "SYS_MSG",
+        "SPECIAL_GIFT"
+    ]
+}
+post_info={
+    "csrf_token":"",
+    "visit_id":"",
+    "roomid":2544683,
+    "uid":269938304
+}
+ws_info={
+    "uid":269938304,
+    "roomid":2544683,
+    "protover":1,
+    "platform":"web",
+    "clientver":"1.4.0"
+}
